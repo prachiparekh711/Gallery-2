@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gallery Lite</string>
+    <string name="vw_rationale_storage">Need Reading Storage Permission for Files</string>
+    <string name="no_of_photos">No Of Photos</string>
+    <string name="last_modified_date">Last modified date</string>
+    <string name="name">Name</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
